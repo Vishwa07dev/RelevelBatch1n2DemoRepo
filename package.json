@@ -1,0 +1,25 @@
+{
+  "name": "relevelbatch1n2demorepo",
+  "version": "1.0.0",
+  "description": "jobhunter application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddanthN/RelevelBatch1n2DemoRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddanthN/RelevelBatch1n2DemoRepo/issues"
+  },
+  "homepage": "https://github.com/SiddanthN/RelevelBatch1n2DemoRepo#readme"
+}
